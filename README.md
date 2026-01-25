@@ -140,16 +140,14 @@ This makes AutoAttend **more efficient, scalable, and user-friendly**.
 ## 📎 Project Links
 
 - **GitHub Repository**  
-  https://github.com/harshpav/virtual-attendee-bot  
-
+  https://github.com/harshpav/AutoAttend-Ai
 - **Demo Video (3 Minutes)**  
-  https://drive.google.com/file/d/1BKTNz8qwkCOzph09m-mMnhIPgedAm5Y6/view  
-
+ https://drive.google.com/file/d/1ckfTbfpL-QVBTa0jyHNDGJvYVqDi0CsE/view?usp=drive_link
 - **MVP Link**  
   https://autoattend2026.netlify.app/ 
 
 - **Presentation (PDF)**  
-  https://storage.googleapis.com/vision-hack2skills-submissions/vision-hack2skills/7b5e3a9e-8f6a-4f5b-9a30-3f3b7a6c2a1f/presentation.pdf  
+  https://docs.google.com/presentation/d/1OPRDhmdLCgjwgpvqmDjsyCnsGivG1JE4/edit?usp=drive_link&ouid=101482088433122051527&rtpof=true&sd=true
 
 ---
 
